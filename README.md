@@ -7,5 +7,5 @@ us-fft.py is for generating the graph of the fourier spectrum of the last 200 da
 
 The following graphs show the cycle period of the pandemic.
 
-<img src="./200.png" height=200 width=200><img src="./180.png" height=200 width=200><img src="./150.png" height=200 width=200>
-<img src="./120.png" height=200 width=200><img src="./90.png" height=200 width=200><img src="./38.png" height=200 width=200>
+<img src="./200.png" height=300 width=300><img src="./180.png" height=300 width=300><img src="./150.png" height=300 width=300>
+<img src="./120.png" height=300 width=300><img src="./90.png" height=300 width=300><img src="./38.png" height=300 width=300>
