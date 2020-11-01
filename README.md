@@ -1,6 +1,6 @@
 # fourier
 In order to run Python programs, see the following site for novice to install the necessary libraries:
-
+https://github.com/ytakefuji/python-novice
 
 us-fft0.py is for generating the graph of the number of daily deaths in the US due to the covid-19 from March 1 to Oct.24 in 2020.
 <img src="./fig1.png" height=400 width=400>
