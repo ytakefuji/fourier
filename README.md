@@ -1,7 +1,7 @@
 # fourier
 The paper entitled "Fourier analysis using the number of COVID-19 daily deaths in the US" 
 was published in Epidemiology and Infection.
-<a href="https://www.cambridge.org/core/journals/epidemiology-and-infection/article/fourier-analysis-using-the-number-of-covid19-daily-deaths-in-the-us/37FB15CCE2D2D64C85EE9A0C3C95421E"> Epidemiology&infection (2021)</a>
+<a href="https://doi.org/10.1017/S0950268821000522"> Epidemiology&infection (2021)</a>
 
 In order to run Python programs, see the following site for novice to install the necessary libraries:
 https://github.com/ytakefuji/python-novice
