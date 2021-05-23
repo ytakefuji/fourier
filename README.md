@@ -3,6 +3,8 @@ The paper entitled "Fourier analysis using the number of COVID-19 daily deaths i
 was published in Epidemiology and Infection.
 <a href="https://doi.org/10.1017/S0950268821000522"> Epidemiology&infection (2021)</a>
 
+https://doi.org/10.1017/S0950268821000522
+
 In order to run Python programs, see the following site for novice to install the necessary libraries:
 https://github.com/ytakefuji/python-novice
 
